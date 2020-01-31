@@ -28,7 +28,7 @@
                   <input type = "submit" value = " Logovanje" name="submit"/><br />
                </form>
                <br>
-              <a href="registracija.php">Registruj se!</a> 
+              <a href="registracija.php">Registruj se!!!</a> 
 
           
             </div>

@@ -1,0 +1,81 @@
+body {
+	
+    background-image: url('slike/slika.jpg'); 
+    }
+    
+    #izmenidiv2 {
+        width: 800px;
+        height: 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+           border: 10px rgb(231, 201, 29);
+           border-radius: 150px;
+        border-style:  dotted;
+        background-color: rgb(109, 197, 214);
+        text-align: center;
+        color:rgb(236, 65, 13);
+        font-family: "Calibri";            
+        }
+
+    input{
+    color:rgb(236, 65, 13);
+    background-color:rgb(231, 217, 155);
+    border-radius: 50px;    
+    }
+
+    #submit{        
+        transition-duration: 0.5s;
+        border-radius: 50px;
+        font-size: 20px;
+        background-color: rgb(236, 238, 97);
+    }
+    
+    #submit:hover{
+        background-color: rgb(214, 31, 205);
+            color: rgb(255, 255, 255)
+    }
+    
+    #submit1{
+        transition-duration: 0.5s;
+        border-radius: 50px;
+        font-size: 15px;
+        color:rgb(200, 67, 67);
+        background-color: rgb(231, 233, 144);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #submit1:hover{
+        background-color: rgb(42, 236, 58);
+            color: rgb(238, 30, 186)
+    }
+
+    .natpisi {
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 10px;
+            font-size: 15px;
+            background-color: plum;
+            color: rgb(25, 0, 47);
+            overflow: hidden;
+    }
+    
+    #footer {
+        width: 850px;
+        border-top: 10px dashed rgb(200, 67, 67);
+        margin-left: auto;
+        margin-right: auto;
+        position: bottom;
+        background-color: rgb(215, 186, 251);
+        height: 200px;
+        color: rgb(25, 0, 47);
+        border-radius: 10px 10px 10px 10px;
+        text-align: center;
+    }
+        
+    #footer ul{
+        text-align: center;    
+    }

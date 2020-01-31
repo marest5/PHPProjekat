@@ -1,0 +1,273 @@
+body {
+    font-family: sans-serif Helvetica;
+    resize: both;
+    overflow: auto;
+    background: url(../slike/pivo.jpg) repeat !important ;    
+}
+
+.natpisi {
+    width: 100%;
+    line-height: 30px;
+        font-size: 25px;
+        background-color: plum;
+        color: rgb(25, 0, 47);
+        white-space: 30px;
+        overflow: hidden;            
+        
+}
+
+.stranica{
+margin-left: 170px;
+margin-right: 170px;
+margin-top: 0px;
+margin-bottom: 0px;
+border: 5px solid;
+border-color: white;
+background: white;
+color: rgb(25, 0, 47);
+}
+
+#slike{
+    position: top;   
+    height: 240px;       
+    width: 100%;
+    padding-left: 0px;
+    padding-right: none;
+}
+
+#oi {
+    height: 50px;
+    width: 50px;      
+}
+
+ul#lista li{   
+display: inline;
+padding-right: 7px;
+}
+
+#lista{   
+    padding-right: none;
+}
+
+.em-text{
+    color: #b82fe2 !important;
+    }
+    
+ .em-text2{
+        color: #4a045d !important;
+        }   
+
+    
+.jumbotron{
+background: rgb(151, 151, 151) url(../slike/slika10.jpg) no-repeat left !important; 
+color: rgb(0, 0, 0);
+height: 200px;
+overflow: none;
+margin-left: none;
+margin-right: none;
+margin: 0px;
+}
+
+.jumbotron .naslovi{
+margin-left: 200px;
+margin-top: 0px;
+float: left;
+}
+
+
+.str{
+background: url(../slike/slika9.png) no-repeat center;    
+text-align: center;
+vertical-align: middle;
+margin: 0 auto;
+margin-top: 50px;
+}
+
+   
+
+.content h1 {
+    display:inline;     
+    background-color: rgb(255, 255, 255); 
+}
+
+#footer {
+margin-top: 500px;
+border-top: 10px dashed rgb(146, 146, 146);
+position: bottom;
+background-color: rgb(215, 186, 251);
+height: 200px;
+color: rgb(25, 0, 47);
+border-radius: 10px 10px 10px 10px;
+}
+
+#footer ul{
+    text-align: center;    
+}
+
+ 
+
+
+#desnaStrana {
+    font-size: 24px; 
+    margin-top: 10px;    
+    position: absolute;   
+    padding: 5px 5px 5px 5px;
+    float: right;
+    left: 50%;
+    right: 175px;
+    height: 460px;
+    background: rgb(241, 197, 255);
+    margin-bottom: 10px;  
+    text-align: center;  
+  }
+  
+  #levaStrana {   
+    margin-top: 10px;    
+    position: absolute;
+    padding: 5px 5px 5px 5px;
+    float: left;
+    background: rgb(194, 191, 191);
+    right: 50%;
+    left: 175px;
+    height: 460px;
+    margin-bottom: 10px;
+  }
+
+  #one {   
+    margin-left: 0px;
+    width: 150px;
+    display: none;
+    height: 150px;
+    float: left;
+  }
+  #two {
+       margin-left: 8px; 
+    width: 150px;
+    display: none;
+    height: 150px;
+    float: left;
+  }
+  #three {
+   margin-left: 8px;
+   
+    width: 150px;
+    display: none;
+    height: 150px;
+    float: left;
+  }
+  #prva {
+ 
+    width: 150px;
+   
+    height: 150px;
+    float: left;
+  }
+   #druga {
+ 
+    width: 150px;
+   
+    height: 150px;
+    float: left;
+  }
+   #treca{
+ 
+    width: 150px;
+   
+    height: 150px;
+    float: left;
+  }
+
+    #Submit{
+    background-color: rgb(240, 216, 251);
+    color: rgb(0, 0, 0);
+    padding: 16px 32px;
+    border: 3px solid rgb(151, 80, 218);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.8s; 
+    transition-duration: 0.8s;
+    cursor: pointer;
+  }    
+
+#Submit:hover {
+    background-color: rgb(222, 90, 255);
+    color: white;
+}
+
+
+.forma{
+    width: 800px;
+}
+
+.em-text4{
+    color: #eb1111 !important;
+    }
+
+.em-text5{
+    background-color: #f2f2f2;
+}
+
+
+#kermit{
+    top: 10px;
+    height: 30%;    
+    position: relative;
+}
+
+@media(max-width: 1200px){
+	.jumbotron{
+	height: 250px;
+    background-color: #eb1111 !important;
+ }
+	.jumbotron h1{
+	margin-top:10px;
+    }
+}
+
+@media(max-width: 500px){
+	.jumbotron{
+	height:450px !important;
+	background-image:none;
+	text-align: center;
+	}	
+	footer p{
+	float:none;
+	text-align: center;
+	padding-top:20px;
+	}
+}
+
+@media(min-width: 1800px){
+	.jumbotron{
+	height: 250px;
+    background-color: #ec65ec !important;
+    background-image: none !important;
+ }
+	.jumbotron h1{
+	font-size: 60px;
+    }
+    .jumbotron h4{
+        font-size: 30px;
+        }
+    .jumbotron .naslovi{
+    margin-left: 300px;    
+    }
+}
+
+#submit1{
+    width: 100%;
+    transition-duration: 0.5s;
+	border-radius: 50px;
+    font-size: 15px;
+    color:black;
+  background-color: white;  
+}
+
+#submit1:hover{
+    background-color: black;
+		color: white;
+}

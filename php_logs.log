@@ -1,0 +1,445 @@
+[30-Jan-2020 13:36:31 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:36:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:05 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:05 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:37:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:38:28 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:38:29 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:38:29 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:38:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:02 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:38 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:41:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:03 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:04 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:56 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:57 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:57 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:42:58 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:48:49 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:48:49 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:54 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 13:59:55 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:35 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:35 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:35 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:35 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:01:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:08 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:09 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:11 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150
+[30-Jan-2020 14:11:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to flight\Engine::handleException() must be an instance of Exception, instance of Error given in C:\xampp\htdocs\projekat\flight\Engine.php:150
+Stack trace:
+#0 [internal function]: flight\Engine->handleException(Object(Error))
+#1 {main}
+  thrown in C:\xampp\htdocs\projekat\flight\Engine.php on line 150

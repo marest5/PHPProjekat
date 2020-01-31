@@ -1,0 +1,122 @@
+body{
+    background-image: url('slike/slika1.jpg');    
+}
+
+#livesearch{ 
+	margin:40px;
+	width:90%;
+	color:rgb(200, 67, 67);	
+	}
+
+#uno{
+    width: 800px;
+	height: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: rgb(98, 219, 138) 23px solid;
+	border-radius: 100px;
+	background-color: rgb(102, 219, 240);
+    text-align: center;    
+}
+
+h2{ padding-top: 15px;
+    background-color: rgb(98, 219, 138);
+    border-radius: 25px;    
+    font-size: 25px;
+    color:rgb(200, 67, 67);
+    font-family: "calibri";        
+}
+
+#obrisidiv{
+    color:rgb(200, 67, 67);
+    font-family: "Calibri";        	   
+}
+
+#submitdelete{
+    border-radius: 15px;
+        font-size: 15px;
+        background-color: rgb(129, 117, 200);
+        width: 100px;
+        color: darkblue;
+}
+
+#submitdelete:hover{
+    background-color: rgb(207, 44, 44);
+}
+
+#submitdelete:active{
+    background-color: white;
+     box-shadow: 0 8px rgb(126, 122, 122);
+      transform: translateY(5px);
+}
+
+input{
+    color:rgb(200, 67, 67);
+    background-color:rgb(240, 224, 174);
+    border: 3px solid rgb(174, 120, 226);    
+}
+
+#izmenidiv1{
+    color:rgb(200, 67, 67);
+    font-family: "Calibri";     
+}
+
+#submitupdate{
+    border-radius: 15px;
+        font-size: 15px;
+        background-color: rgb(129, 117, 200);
+        width: 100px;
+        color: darkblue;
+}
+
+#submitupdate:hover{
+    background-color: rgb(207, 44, 44);
+}
+
+#submitupdate:active{
+    background-color: white;
+     box-shadow: 0 8px rgb(126, 122, 122);
+      transform: translateY(5px);
+}
+
+#submit1{
+    transition-duration: 0.5s;
+	border-radius: 50px;
+    font-size: 15px;
+    color:rgb(200, 67, 67);
+	background-color: rgb(231, 233, 144);
+}
+
+#submit1:hover{
+    background-color: rgb(42, 236, 58);
+		color: rgb(238, 30, 186)
+}
+
+.natpisi {
+	width: 850px;
+	margin-left: auto;
+	margin-right: auto;
+    line-height: 10px;
+        font-size: 15px;
+        background-color: plum;
+        color: rgb(25, 0, 47);
+		overflow: hidden;
+}
+
+#footer {
+	width: 850px;
+	border-top: 10px dashed rgb(200, 67, 67);
+	margin-left: auto;
+	margin-right: auto;
+	position: bottom;
+	background-color: rgb(215, 186, 251);
+	height: 200px;
+	color: rgb(25, 0, 47);
+	border-radius: 10px 10px 10px 10px;
+	text-align: center;
+}
+	
+#footer ul{
+	text-align: center;    
+}
